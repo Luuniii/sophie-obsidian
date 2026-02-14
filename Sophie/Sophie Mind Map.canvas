@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"id":"796e6a40f67e679b","type":"file","file":"Obsidian Vault/sophie-obsidian/Sophie/IMGs/Mizi.png","x":269,"y":-780,"width":273,"height":399,"color":"3"},
+		{"id":"e910263e2dca2111","type":"file","file":"Obsidian Vault/sophie-obsidian/Sophie/IMGs/Mitsuki Koga.jpg","x":-31,"y":-780,"width":143,"height":399,"color":"3"},
+		{"id":"4828342c588db06a","type":"file","file":"Obsidian Vault/sophie-obsidian/Sophie/IMGs/Ryo.png","x":-460,"y":-780,"width":260,"height":400,"color":"3"},
+		{"id":"efa7550840c3823a","type":"text","text":"She/Her","x":-85,"y":120,"width":250,"height":60,"color":"1"},
+		{"id":"716ce762731dde58","type":"text","text":"The Highschool Guitarrist","x":-872,"y":-192,"width":250,"height":50,"color":"2"},
+		{"id":"196df9560340fa53","type":"text","text":"- Reservada e tranquila;\n- Prefere escutar música e tocar guitarra à conversar com desconhecidos nos intervalos;\n- Enquanto passa um ar elegante enquanto segura e toca sua guitarra, passa um ar mais \"nerd\" e enquanto está com livros em mãos estudando.","x":-1460,"y":-176,"width":320,"height":267,"color":"2"},
+		{"id":"d7e38774f43310c1","type":"text","text":"- Mais aberta, por mais que ainda seja bem reservada;\n- Divide o fone com amigos mais próximos (Artemis), conversando com eles com um sorriso na boca;\n- Quem a conhece de maneira mais próxima percebe que o ar de \"nerd\" que ela tinha não passava de um ar mesmo, já que Sophie tem dificuldade em estudar.","x":-1080,"y":-20,"width":315,"height":280,"color":"2"},
+		{"id":"970a6e1d5c680455","type":"text","text":"- Sempre escutando música e com fones;\n- Costuma desenhar e escrever sobre coisas que gosta (Artemis), deixando um espaço em seu caderno especificadamente para aquilo;\n- Tem várias composições de música sobre seu passado e sobre os ressentimentos e vontades que têm.","x":-680,"y":20,"width":320,"height":320,"color":"2"},
+		{"id":"6606871270a6851a","type":"text","text":"Música favorita:\n- I Bet You Look Good On The Dancefloor - https://open.spotify.com/intl-pt/track/3DQVgcqaP3iSMbaKsd57l5?si=2787873a8e1d4538","x":-1124,"y":460,"width":327,"height":200,"color":"5"},
+		{"id":"5c0dd02159c85bd1","type":"text","text":"A música comenta sobre a perfeição ser algo relativo, de momento, assim como ela acredita que seja.\nNão só isso, mas ela também comenta sobre a incerteza de suas escolhas e da própria identidade, assim como ela sofre entre a masculinidade e a feminilidade.\nAlém disso, a música é muito boa de se tocar na guitarra.","x":-1151,"y":720,"width":381,"height":260,"color":"5"},
+		{"id":"7dc6f69aa0534662","type":"file","file":"Obsidian Vault/sophie-obsidian/Sophie/IMGs/Sophie Andriko.png","x":-119,"y":-280,"width":319,"height":400,"color":"1"}
+	],
+	"edges":[
+		{"id":"aa3a2a7050dbfd08","fromNode":"716ce762731dde58","fromSide":"left","toNode":"196df9560340fa53","toSide":"top","color":"2","label":"Extrovertismo\n(Desconhecidos)"},
+		{"id":"6fab19e4fa48c3b3","fromNode":"716ce762731dde58","fromSide":"bottom","toNode":"d7e38774f43310c1","toSide":"top","color":"2","label":"Extrovertismo\n(Amigos)"},
+		{"id":"6c89446bbec7a94b","fromNode":"716ce762731dde58","fromSide":"right","toNode":"970a6e1d5c680455","toSide":"top","color":"2","label":"Introvertismo"},
+		{"id":"21c9bb982f2fe17f","fromNode":"196df9560340fa53","fromSide":"bottom","toNode":"6606871270a6851a","toSide":"top","color":"5"},
+		{"id":"b52c9f73764ef4a5","fromNode":"d7e38774f43310c1","fromSide":"bottom","toNode":"6606871270a6851a","toSide":"top","color":"5"},
+		{"id":"9b0cbf05d779a005","fromNode":"970a6e1d5c680455","fromSide":"bottom","toNode":"6606871270a6851a","toSide":"top","color":"5"},
+		{"id":"faf98bbd1dc3e124","fromNode":"6606871270a6851a","fromSide":"bottom","toNode":"5c0dd02159c85bd1","toSide":"top","color":"5"},
+		{"id":"329d3db2e986003b","fromNode":"7dc6f69aa0534662","fromSide":"top","toNode":"796e6a40f67e679b","toSide":"bottom","color":"3"},
+		{"id":"7f989aee866fe54d","fromNode":"7dc6f69aa0534662","fromSide":"top","toNode":"e910263e2dca2111","toSide":"bottom","color":"3","label":"Referências"},
+		{"id":"985427ae4eb291e7","fromNode":"7dc6f69aa0534662","fromSide":"top","toNode":"4828342c588db06a","toSide":"bottom","color":"3"},
+		{"id":"b4d7e25d67750f4b","fromNode":"7dc6f69aa0534662","fromSide":"left","toNode":"716ce762731dde58","toSide":"top","color":"2","label":"Personalidade"}
+	]
+}
