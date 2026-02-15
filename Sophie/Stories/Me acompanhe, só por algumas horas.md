@@ -1,6 +1,4 @@
-
----
-
+- - -
 
 Os dias na escola de Hollowcrest são sempre os mesmos para Sophie: Acordar, ir até a sala de aula, estudar e blah blah blah. Tudo isso é chato, monótono. Mas pelo menos servia de escape das memórias ruins. Principalmente dentro da sala de música. Lá, realmente conseguia escapar. Sophie se lembra vividamente do dia em que entrou para o clube de música. Como poderia esquecer?
 
